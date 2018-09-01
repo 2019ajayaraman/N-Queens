@@ -1,2 +1,2 @@
 # N-Queens
-Python program to use genetic algorithms to solve the N-Queens problem.
+Python program that uses a genetic algorithm to solve the N-Queens problem.
